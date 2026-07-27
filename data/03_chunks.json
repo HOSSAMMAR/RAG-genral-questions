@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "1001_chunk_0",
+    "document_id": "1001",
+    "title": "Google",
+    "chunk_text": "Google was founded on September 4, 1998, by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. Together they own about 14 percent of its publicly listed shares and control 56 percent of the stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc.",
+    "source_question": "when was google founded",
+    "source_answer": "September 4, 1998"
+  },
+  {
+    "chunk_id": "1002_chunk_0",
+    "document_id": "1002",
+    "title": "Python (programming language)",
+    "chunk_text": "Python was created by Guido van Rossum and first released on February 20, 1991. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.",
+    "source_question": "who created python programming language",
+    "source_answer": "Guido van Rossum"
+  },
+  {
+    "chunk_id": "1003_chunk_0",
+    "document_id": "1003",
+    "title": "Apollo 11",
+    "chunk_text": "Apollo 11 was the American spaceflight that first landed humans on the Moon. Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969. Neil Armstrong became the first person to walk on the Moon six hours and 39 minutes later on July 21.",
+    "source_question": "who was the first person to walk on the moon",
+    "source_answer": "Neil Armstrong"
+  },
+  {
+    "chunk_id": "1004_chunk_0",
+    "document_id": "1004",
+    "title": "World Wide Web",
+    "chunk_text": "The World Wide Web was invented by English scientist Tim Berners-Lee in 1989. He wrote the first web browser program in 1990 while employed at CERN in Switzerland. The Web was open to the public in August 1991 and became a fundamental technology of the Information Age.",
+    "source_question": "who invented the world wide web",
+    "source_answer": "Tim Berners-Lee"
+  },
+  {
+    "chunk_id": "1005_chunk_0",
+    "document_id": "1005",
+    "title": "Eiffel Tower",
+    "chunk_text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889 as the entrance to the 1889 World's Fair.",
+    "source_question": "where is the eiffel tower located",
+    "source_answer": "Paris, France"
+  },
+  {
+    "chunk_id": "1006_chunk_0",
+    "document_id": "1006",
+    "title": "Cairo",
+    "chunk_text": "Cairo is the capital and largest city of Egypt. The city's metropolitan area is one of the largest in Africa, the Arab world, and the Middle East. Cairo is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area.",
+    "source_question": "what is the capital of egypt",
+    "source_answer": "Cairo"
+  },
+  {
+    "chunk_id": "1007_chunk_0",
+    "document_id": "1007",
+    "title": "Coffee",
+    "chunk_text": "Coffee is a beverage prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It is one of the most popular drinks in the world and can be prepared and presented in a variety of ways, such as espresso, French press, caffe latte, or already-brewed drip coffee.",
+    "source_question": "what do you know about coffee",
+    "source_answer": "beverage prepared from roasted coffee beans"
+  },
+  {
+    "chunk_id": "1008_chunk_0",
+    "document_id": "1008",
+    "title": "Artificial Intelligence",
+    "chunk_text": "Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of living beings, primarily of humans. It is a field of study in computer science that develops and studies intelligent machines, capable of performing tasks that typically require human intelligence, such as reasoning, learning, and problem solving.",
+    "source_question": "what is artificial intelligence",
+    "source_answer": "intelligence of machines or software"
+  },
+  {
+    "chunk_id": "1009_chunk_0",
+    "document_id": "1009",
+    "title": "Solar System",
+    "chunk_text": "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. It formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter.",
+    "source_question": "what is the solar system",
+    "source_answer": "gravitationally bound system of the Sun and orbiting objects"
+  },
+  {
+    "chunk_id": "1010_chunk_0",
+    "document_id": "1010",
+    "title": "Earth",
+    "chunk_text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29.2% of Earth's surface is land consisting of continents and islands. The remaining 70.8% is covered with water, mostly by oceans, seas, gulfs, and other salt-water bodies.",
+    "source_question": "what is planet earth",
+    "source_answer": "third planet from the Sun"
+  }
+]
